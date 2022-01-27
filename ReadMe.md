@@ -1,7 +1,7 @@
 <h2 align="center"><b>OwNeR <a href="https://telegram.dog/Godmrunal">⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/msy1717/Beast-X"><img src="https://telegra.ph/file/4a1e0ee716f805cf66777.jpg" alt="Beast X" width=400px></a>
+   <a href="https://github.com/amanrajput2001/Beast-X"><img src="https://telegra.ph/file/4a1e0ee716f805cf66777.jpg" alt="Beast X" width=400px></a>
    <br>
    <br>
 </p>
@@ -41,7 +41,7 @@
 
 
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmsy1717%2FBeast-X&amp;template=https%3A%2F%2Fgithub.com%2Fmsy1717%2FBeast-X" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy To Heroku" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Famanrajput2001%2FBeast-X&amp;template=https%3A%2F%2Fgithub.com%2Famanrajput2001%2FBeast-X" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy To Heroku" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 # Requirements 
 * Python 3.8 or Higher
